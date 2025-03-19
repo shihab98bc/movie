@@ -70,7 +70,7 @@ const MovieDetailsWrapper = ({ movie }) => {
 
             <div className='movie-player m-2 sm:m-5 mb-10 w-full h-full z-[50]'>
                 <iframe
-                    className="sm:w-[90%] md:w-[80%] w-full min-h-[40vh] sm:min-h-[80vh] z-[50] m-auto rounded-xl border-1 shadow-2xl"
+                    className="sm:w-[90%] md:w-[80%] w-full min-h-[40vh] sm:min-h-[90vh] z-[50] m-auto rounded-xl border-1 shadow-2xl"
                     style={{
                         borderColor: 'rgba(0, 0, 0, 0.5)'
                     }}
