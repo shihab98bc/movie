@@ -74,7 +74,7 @@ const MovieDetailsWrapper = ({ movie }) => {
                     style={{
                         borderColor: 'rgba(0, 0, 0, 0.5)'
                     }}
-                    src={`https://multiembed.mov/?video_id=${movie.id}&tmdb=1`}
+                    src={`https://www.2embed.cc/embed/${movie.id}`}
                     allowFullScreen
                 />
             </div>
