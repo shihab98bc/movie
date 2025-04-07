@@ -26,7 +26,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/M-YasirGhaffar/React-movies-and-tv-shows-streaming-web-app
+   https://github.com/shihab98bc/movie.git
    ```
 2. Navigate to the project directory:
    ```
